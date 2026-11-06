@@ -62,3 +62,12 @@ The same `discord_game_sdk.dll` can be used for both versions as it auto-detects
 
 - [t6-mod](https://gitlab.com/xifil/t6-mod) - codebase
 - [Defcon](https://github.com/ProjectDonetsk/Defcon) - documented code used throughout the project
+
+
+
+
+
+
+
+
+
